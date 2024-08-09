@@ -1,5 +1,5 @@
  
-# CelestialClusters
+# ClustersGalaxy
 
 ## Overview
 CelestialClusters is a visually immersive tool that brings data clusters to life within a celestial-themed environment. Utilizing HTML5 Canvas and JavaScript, this tool offers interactive exploration of data clusters set against star-studded backdrops.
