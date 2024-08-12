@@ -11,7 +11,7 @@ CelestialClusters is a visually immersive tool that brings data clusters to life
 
 ## Demo
 Check out a live demo of the project on CodePen:
-[CelestialClusters Demo](https://codepen.io/yourcodepenlink)
+[CelestialClusters Demo](https://codepen.io/ogerly/pen/bGPrJea)
 
 ## Installation
 To run this project locally, clone the repository and open the `index.html` file in your browser.
